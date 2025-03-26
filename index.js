@@ -57,12 +57,7 @@ let a = 90+90;
 let b = function (){
     console.log(90+90);
 }
-if(3===2 || 9===9){
-    console.log("HI");
-}
-else{
-    console.log("goodbye")
-}
+
 b();
 // hoisting
 // declaration
